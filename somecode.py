@@ -1,5 +1,5 @@
-e=5
-f=6
-for i in range(1,e):
- e=e+f
-print(e)
+k=5
+l=6
+for i in range(1,k):
+ k=k+l
+print(k)
